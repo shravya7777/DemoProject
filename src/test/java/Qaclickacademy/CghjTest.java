@@ -6,5 +6,8 @@ public class CghjTest {
 	@Test
 public void gh() {
 		System.out.println("f jk ");
+		System.out.println("f jk serdtfgyhujk");
+		System.out.println("qwertyuiopasdfghjklzxcvbnm,");
+		
 	}
 }
